@@ -106,6 +106,3 @@ Enter sensitive personal data or medical questions.
 Treat the agent as a replacement for certified medical/professional advice.
 
 Expect tracking or memory of past chats (unless extended for that).
-
-# Acknowledgements
-Created as part of IBM SkillsBuild Academic Hackathon. Powered by IBM Cloud Watsonx AI Studio & Prompt Lab.
