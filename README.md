@@ -61,7 +61,7 @@ Start a conversation: Ask fitness questions, request meal ideas, or motivation.
 
 # 🔹 Deployment & Preview...
 
-<img width="1919" height="907" alt="Screenshot 2025-07-30 213554" src="https://github.com/user-attachments/assets/10b6ee95-e898-486c-8b78-899999c2019e" />
+<img width="1919" height="907" alt="Screenshot 2025-07-30 213554" src="https://github.com/anikesh-17/Fitness-Buddy/blob/main/agent_preview.png?raw=true" />
 
 # 🔹 API References after Deployment..
 
