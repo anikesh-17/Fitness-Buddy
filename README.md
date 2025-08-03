@@ -1,6 +1,7 @@
 # Fitness Buddy – AI Fitness Companion
 
-![FitnessBud](https://github.com/user-attachments/assets/944d2d6c-98dd-46e2-b7fc-7e754643e327)
+![FitnessBud](<img width="1292" height="738" alt="image" src="https://github.com/user-attachments/assets/fadb5cb2-4f87-4f4b-908e-cbaeba0014b6" />
+)
 
 
 # Overview
